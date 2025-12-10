@@ -31,6 +31,6 @@ Edge浏览器最新版或者谷歌浏览器最新版本
 ## 开启浏览器跨域功能
 Edge：`edge://flags/#local-network-access-check`  
 谷歌浏览器：`chrome://flags/#local-network-access-check`  
-更改为 **`Disabled`**
+更改为 **`Disabled`**  
 ![12](image-7.png)
 
