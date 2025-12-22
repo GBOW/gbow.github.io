@@ -12,4 +12,5 @@
 - 错误排查
   
   - [调试](dbug.md)
+  - [为什么启动不了客户端](err.md)
 - [加入聊天群](https://qm.qq.com/q/cXnYD7a6QM)
