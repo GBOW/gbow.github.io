@@ -5,6 +5,7 @@
   - [模板位置](mbwz.md)
 - 基本教程
 
+  - [生成的模板不一样？](Excel.md#)
   - [发布后模板地址](templateAddressAfterPublication.md)
   - [插入图片](logo.md#插入图片)
   - [插入二维码](erwm.md)
