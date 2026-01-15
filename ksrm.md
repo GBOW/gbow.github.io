@@ -29,7 +29,7 @@ Edge浏览器最新版或者谷歌浏览器最新版本
 这个服务主要是用来调用WPS进行打印和预览，如果没有安装的话，默认是调用网页进行打印
 
 ## 开启浏览器跨域功能
-浏览器输入下面的地址
+浏览器输入下面的地址  
 Edge：`edge://flags/#local-network-access-check`  
 谷歌浏览器：`chrome://flags/#local-network-access-check`或`chrome://flags/#Block-insecure-private-network-requests`
 更改为 **`Disabled`**  
